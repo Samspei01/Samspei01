@@ -13,7 +13,7 @@
 - 🎓 I’m currently studying Robotics with a focus on Machine Learning at AAST.
 - 🏅 ECPC (Egypt Collegiate Programming Contest) Finalist.
 - 💻 Passionate about using competitive programming to solve real-world problems.
-- 📄 Here is [MY RESUME](https://github.com/Samspei01/Samspei01/tree/master/cv).
+- 📄 Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/cv/CV.pdf).
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
