@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%236FDA44&center=true&vCenter=true&random=false&width=600&lines=AI+Student+at+AAST;ECPC+Finalist;Passionate+about+Machine+Learning+and+Robotics;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%236FDA44&center=true&vCenter=true&random=false&width=600&lines=AI+Student+at+AAST;ECPC+Finalist;Passionate+about+Machine+Learning+and+Robotics;Always+learning+new+things;Using+Competitive+Programming+in+all+projects;Expert+on+Codeforces" alt="Typing SVG" /></a>
 </p>
 
 
@@ -14,10 +14,11 @@
 <img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Right_Side.gif?raw=true" width="30%">
 
 <br><br>
-- 🎓 I’m currently studying Robotics with a focus on Machine Learning at AAST.
+- 🎓 I’m currently a `student` of Artificial Intelligence at AAST(https://campaigns.aast.edu/artificial-intelligence/).
+- 🦾 studying Robotics with a focus on Machine Learning at AAST
 - 🏅 ECPC (Egypt Collegiate Programming Contest) Finalist.
-- 💻 Passionate about using competitive programming to solve real-world problems.
-- 📄 Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/cv/CV.pdf).
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :thinking: I’m currently open for a new `job opportunity`, Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/cv/CV.pdf).
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
