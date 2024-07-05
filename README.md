@@ -100,6 +100,9 @@
   <a href="https://nodejs.org/" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white">
   </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white">
+  </a>
 </p>
 
 ### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/Software_Tools.gif" width="5%"> Software & Tools
@@ -119,6 +122,10 @@
     <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"></a>
+  &emsp;
+    <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
 </p>
 
 ### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/IDEs.gif" width="5%"> IDEs
