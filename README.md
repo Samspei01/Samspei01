@@ -4,7 +4,7 @@
 </p>
 
 <br>
-## <img src="https://github.com/Samspei01/Samspei01/blob/master/images/about_me.gif" width="5%"> About me
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Right_Side.gif?raw=true" width="30%">
 
@@ -16,8 +16,9 @@
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
-<br>
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
+<be>
+
+## <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/samsapi0l"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
