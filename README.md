@@ -28,13 +28,11 @@
 	<a href="https://atcoder.jp/users/abdelrhamn"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 	  &emsp; 
 	<a href="https://www.codechef.com/users/samsapi0l"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
-	  &emsp; 
-	<a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
 	&emsp;
     <a href="https://judge.beecrowd.com.br/judge/en/profile/647907"><img alt="BeeCrowd" src="https://img.icons8.com/color/50/000000/bee.png"/></a>
+    	  &emsp; 
+	<a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
 </div>
-
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <br><br>
 
 ## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
