@@ -16,7 +16,7 @@
 <img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Right_Side.gif?raw=true" width="30%">
 
 <br><br>
-- 🎓 I’m currently a `student` of Artificial Intelligence at AAST(https://campaigns.aast.edu/artificial-intelligence/).
+- 🎓 I’m currently a `student` of [Artificial Intelligence @AAST](https://campaigns.aast.edu/artificial-intelligence/).
 - 🦾 studying Robotics with a focus on Machine Learning at AAST
 - 🏅 ECPC (Egypt Collegiate Programming Contest) Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
