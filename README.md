@@ -1,10 +1,9 @@
-<h1 align="center"><img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/about_me.gif?raw=true" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center"><img src="https://github.com/Samspei01/Samspei01/blob/master/images/name.gif" width="80%"> <img src="https://github.com/Samspei01/Samspei01/blob/master/images/tenor.gif" width="5%"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=AI+Student+at+AAST;ECPC+Finalist;Passionate+about+Machine+Learning+and+Robotics;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" /></a>
 </p>
 
 <br>
-
 ## <img src="https://github.com/Samspei01/Samspei01/blob/master/images/about_me.gif" width="5%"> About me
 
 <img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Right_Side.gif?raw=true" width="30%">
