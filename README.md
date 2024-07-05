@@ -17,7 +17,25 @@
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
-<br><br><br>
+<be>
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<div align="center" width=100%>
+  <a href="https://codeforces.com/profile/samsapi0l"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+	  &emsp; 
+	<a href="https://leetcode.com/u/samsapi01/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	  &emsp; 
+	<a href="https://atcoder.jp/users/abdelrhamn"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.codechef.com/users/samsapi0l"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
+	&emsp;
+    <a href="https://judge.beecrowd.com.br/judge/en/profile/647907"><img alt="BeeCrowd" src="https://img.icons8.com/color/50/000000/bee.png"/></a>
+</div>
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<br><br>
 
 ## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
