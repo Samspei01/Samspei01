@@ -165,15 +165,14 @@
 	</a>
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samspei01&theme=tokyonight_duo" alt="Streak Stats" /></p>
 
-</details>
   
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
@@ -211,15 +210,26 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/Samspei01/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Samspei01/Chatbot">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Chatbot&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Samspei01/Samspei01">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Samspei01&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Samspei01/Mimic-Nao">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Mimic-Nao&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+		<a href="https://github.com/Samspei01/CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=CP&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	      	</a>
+		<a href="https://github.com/Samspei01/Astro-AI-Translator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Astro-AI-Translator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+		      	</a>
+		<a href="https://github.com/Samspei01/cubot">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=cubot&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
-
+</details>
 
 </br></br>
 	
