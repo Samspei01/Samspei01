@@ -35,7 +35,7 @@
 </div>
 <br><br>
 
-## <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/Samspei01/Samspei01/blob/master/images/Connect-with-me.gif" width="10%"> Connect with me
 
 <p align="center">
   <a href="mailto:abdosaaed749@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -47,7 +47,7 @@
 
 ## 🛠️ Skills
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Programming_Languages.gif?raw=true" width="5%"> Programming languages
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/Programming_Languages.gif" width="5%"> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -76,7 +76,7 @@
   </a> 
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Front_End.gif?raw=true" width="5%"> Frontend Development
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/Front_End.gif" width="5%"> Frontend Development
 
 <p align="center"> 
   &emsp; 
@@ -97,7 +97,7 @@
   </a>
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Software_Tools.gif?raw=true" width="5%"> Software & Tools
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/Software_Tools.gif" width="5%"> Software & Tools
 
 <p align="center">
   &emsp;
@@ -116,7 +116,7 @@
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"></a>
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/IDEs.gif?raw=true" width="5%"> IDEs
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/IDEs.gif" width="5%"> IDEs
 
 <p align="center">
   &emsp;
@@ -129,7 +129,7 @@
     <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/codeblocks-%233B7BF6.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/OS.gif?raw=true" width="5%"> Operating Systems
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/OS.gif" width="5%"> Operating Systems
 
 <p align="center">
   &emsp;
