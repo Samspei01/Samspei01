@@ -13,7 +13,7 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Right_Side.gif?raw=true" width="30%">
+<img align="right" src="https://github.com/Samspei01/Samspei01/blob/master/images/Right_Side.gif?raw=true" width="30%">
 
 <br><br>
 - 🎓 I’m currently a `student` of [Artificial Intelligence @AAST](https://campaigns.aast.edu/artificial-intelligence/).
@@ -171,18 +171,18 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samspei0l&theme=tokyonight_duo" alt="Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samspei01&theme=tokyonight_duo" alt="Streak Stats" /></p>
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samspei0l&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samspei0l&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="230px"/>
+	    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samspei01&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samspei01&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -193,7 +193,7 @@
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samspei0l&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samspei01&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
 
 </details>
 
@@ -201,7 +201,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samspei0l&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samspei01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a> </p>
 
 </details>
 	
@@ -211,15 +211,15 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/Samspei0l/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei0l&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Samspei01/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Samspei0l/Samspei0l">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei0l&repo=Samspei0l&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Samspei01/Samspei01">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Samspei01&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
-</details>
+
 
 </br></br>
 	
