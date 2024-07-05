@@ -155,36 +155,10 @@
   &emsp;
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
-----
-### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/IDEs.gif" width="5%"> IDEs
+
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/tools.gif" width="5%"> Tools and Libraries
 
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?style=plastic&logo=eclipse%20ide&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/codeblocks-%233B7BF6.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
-</p>
-
-### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/OS.gif" width="5%"> Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/Tools_Libraries.gif" width="5%"> Tools and Libraries
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"></a>
   &emsp;
