@@ -9,6 +9,7 @@
 
 <img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/main/Right_Side.gif?raw=true" width="30%">
 
+<br><br>
 - 🎓 I’m currently studying Robotics with a focus on Machine Learning at AAST.
 - 🏅 ECPC (Egypt Collegiate Programming Contest) Finalist.
 - 💻 Passionate about using competitive programming to solve real-world problems.
@@ -17,92 +18,6 @@
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
 <br><br><br>
-
-## 🛠️ Skills
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming languages
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-</div>
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Front_End.gif?raw=true" width="5%"> Frontend Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-</div>
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Software_Tools.gif?raw=true" width="5%"> Software & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="30" alt="Stack Overflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Google logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="30" alt="JSON logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="LaTeX logo" />
-</div>
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/IDEs.gif?raw=true" width="5%"> IDEs
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="JetBrains logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" height="30" alt="Code::Blocks logo" />
-</div>
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
-
-<div align="left">
-  <a href="https://codeforces.com/profile/samsapi0l"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" /></a>
-  <img width="12" />
-  <a href="https://atcoder.jp/users/abdelrhamn"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" /></a>
-  <img width="12" />
-  <a href="https://www.codechef.com/users/samsapi0l"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" /></a>
-  <img width="12" />
-  <a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316"><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="CodinGame" /></a>
-  <img width="12" />
-  <a href="https://judge.beecrowd.com/en/profile/647907"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beecrowd/beecrowd-original.svg" alt="BeeCrowd" /></a>
-</div>
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/OS.gif?raw=true" width="5%"> Operating Systems
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows logo" />
-</div>
-
-<br>
 
 ## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
@@ -114,20 +29,134 @@
   <a href="https://www.facebook.com/profile.php?id=100081150582431"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
+## 🛠️ Skills
+
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+</p>
+
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Front_End.gif?raw=true" width="5%"> Frontend Development
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white">
+  </a>
+</p>
+
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Software_Tools.gif?raw=true" width="5%"> Software & Tools
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google" src="https://img.shields.io/badge/Google-%234285F4.svg?style=plastic&logo=google&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"></a>
+</p>
+
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/IDEs.gif?raw=true" width="5%"> IDEs
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?style=plastic&logo=eclipse%20ide&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/codeblocks-%233B7BF6.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
+</p>
+
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
+
+<p align="center">
+  &emsp;
+    <a href="https://codeforces.com/profile/samsapi0l"><img alt="Codeforces" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>	
+  &emsp;
+    <a href="https://leetcode.com/Samspei0l/"><img alt="Leetcode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+  &emsp;
+    <a href="https://atcoder.jp/users/abdelrhamn"><img alt="AtCoder" src="https://i.ibb.co/Q9WSjDB/logo.png"/></a>
+  &emsp;
+    <a href="https://www.codechef.com/users/samsapi0l"><img alt="CodeChef" src="https://img.icons8.com/color/50/000000/codechef.png"/></a>
+  &emsp;
+    <a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316"><img alt="CodinGame" src="https://i.ibb.co/1MRppTC/codingame-1.png"/></a>
+  &emsp;
+    <a href="https://judge.beecrowd.com.br/judge/en/profile/647907"><img alt="BeeCrowd" src="https://img.icons8.com/color/50/000000/bee.png"/></a>
+</p>
+
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/OS.gif?raw=true" width="5%"> Operating Systems
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----
+----	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samspei0l&theme=tokyonight_duo" alt="Streak Stats" /></p>
 
 </details>
-
+  
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-
+	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samspei0l&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -141,7 +170,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-
+	
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samspei0l&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
 
 </details>
@@ -149,30 +178,29 @@
 <details><summary><h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
-
+	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samspei0l&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a> </p>
 
 </details>
-
+	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
-
+	
 <div>
   <p align="center">
 	<a href="https://github.com/Samspei0l/LeetCode_DailyChallenge_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei0l&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Samspei0l/cv">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei0l&repo=cv&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Samspei0l/Samspei0l">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei0l&repo=Samspei0l&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<!-- Add more pinned repositories as needed -->
   </p>
 </div>
 </details>
 
 </br></br>
-
+	
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
