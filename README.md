@@ -161,7 +161,7 @@
 ----
 <p align="center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes">
-	  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your+custom+quote+here!&author=Your+Name" />
+	  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" />
 	</a>
 </p>
 
