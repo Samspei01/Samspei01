@@ -133,7 +133,7 @@
   &emsp;
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
  &emsp;
-    <a href="https://huggingface.co/" target="_blank"><img alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg?style=plastic&logo=latex&logoColor=white"></a>
+    <a href="https://huggingface.co/" target="_blank"><img alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg?style=plastic&logo=huggingface&logoColor=white"></a>
 </p>
 
 ### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/IDEs.gif" width="5%"> IDEs
