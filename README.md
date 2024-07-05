@@ -16,9 +16,9 @@
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
-<be>
+<br>
 
-## <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
+## <img src="https://github.com/Samspei01/Samspei01/blob/master/images/CP_PS.gif" width=10%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/samsapi0l"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
