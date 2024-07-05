@@ -5,7 +5,7 @@
 
 <br>
 
-## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/about_me.gif?raw=true" width="6.5%"> About me
+## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/about_me.gif?raw=true" width="5%"> About me
 
 <img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/main/Right_Side.gif?raw=true" width="30%">
 
@@ -18,7 +18,7 @@
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
 <be>
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/samsapi0l"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
@@ -127,23 +127,6 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?style=plastic&logo=eclipse%20ide&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/codeblocks-%233B7BF6.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
-</p>
-
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
-
-<p align="center">
-  &emsp;
-    <a href="https://codeforces.com/profile/samsapi0l"><img alt="Codeforces" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>	
-  &emsp;
-    <a href="https://leetcode.com/Samspei0l/"><img alt="Leetcode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-  &emsp;
-    <a href="https://atcoder.jp/users/abdelrhamn"><img alt="AtCoder" src="https://i.ibb.co/Q9WSjDB/logo.png"/></a>
-  &emsp;
-    <a href="https://www.codechef.com/users/samsapi0l"><img alt="CodeChef" src="https://img.icons8.com/color/50/000000/codechef.png"/></a>
-  &emsp;
-    <a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316"><img alt="CodinGame" src="https://i.ibb.co/1MRppTC/codingame-1.png"/></a>
-  &emsp;
-    <a href="https://judge.beecrowd.com.br/judge/en/profile/647907"><img alt="BeeCrowd" src="https://img.icons8.com/color/50/000000/bee.png"/></a>
 </p>
 
 ### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/OS.gif?raw=true" width="5%"> Operating Systems
