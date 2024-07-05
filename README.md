@@ -17,7 +17,7 @@
 
 <br><br>
 - 🎓 I’m currently a `student` of [Artificial Intelligence @AAST](https://campaigns.aast.edu/artificial-intelligence/).
-- 🦾 studying Robotics with a focus on Machine Learning at AAST
+- 🦾 studying Robotics with a focus on Machine Learning
 - 🏅 ECPC (Egypt Collegiate Programming Contest) Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :thinking: I’m currently open for a new `job opportunity`, Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/cv/CV.pdf).
@@ -156,7 +156,12 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br>
+<be>
+---
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 ## 📊 GitHub Stats
 
