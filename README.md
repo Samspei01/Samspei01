@@ -161,7 +161,7 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/tool.gif" width="6.5%"> Tools and Libraries
+### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/tool.gif" width="6.5%"> Tools & Libraries
 
 <p align="center">
   &emsp;
