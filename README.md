@@ -102,11 +102,11 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" >
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white">
   </a>
 &emsp;
-  <a href="https://flutter.dev/" target="_blank">
+  <a href="https://flutter.dev/" >
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white">
   </a>
 </p>
