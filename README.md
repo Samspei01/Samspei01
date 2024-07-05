@@ -1,13 +1,13 @@
-<h1 align="center"><img src="https://github.com/Samspei0l/Samspei0l/blob/main/about_me.gif?raw=true" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center"><img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/about_me.gif?raw=true" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=AI+Student+at+AAST;ECPC+Finalist;Passionate+about+Machine+Learning+and+Robotics;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" /></a>
 </p>
 
 <br>
 
-## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/about_me.gif?raw=true" width="5%"> About me
+## <img src="https://github.com/Samspei01/Samspei01/blob/master/images/about_me.gif" width="5%"> About me
 
-<img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/main/Right_Side.gif?raw=true" width="30%">
+<img align="right" src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Right_Side.gif?raw=true" width="30%">
 
 <br><br>
 - 🎓 I’m currently studying Robotics with a focus on Machine Learning at AAST.
@@ -18,7 +18,7 @@
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
 <be>
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/samsapi0l"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
@@ -35,7 +35,7 @@
 </div>
 <br><br>
 
-## <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
 <p align="center">
   <a href="mailto:abdosaaed749@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -47,7 +47,7 @@
 
 ## 🛠️ Skills
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming languages
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Programming_Languages.gif?raw=true" width="5%"> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -76,7 +76,7 @@
   </a> 
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Front_End.gif?raw=true" width="5%"> Frontend Development
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Front_End.gif?raw=true" width="5%"> Frontend Development
 
 <p align="center"> 
   &emsp; 
@@ -97,7 +97,7 @@
   </a>
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/Software_Tools.gif?raw=true" width="5%"> Software & Tools
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/Software_Tools.gif?raw=true" width="5%"> Software & Tools
 
 <p align="center">
   &emsp;
@@ -116,7 +116,7 @@
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"></a>
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/IDEs.gif?raw=true" width="5%"> IDEs
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/IDEs.gif?raw=true" width="5%"> IDEs
 
 <p align="center">
   &emsp;
@@ -129,7 +129,7 @@
     <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/codeblocks-%233B7BF6.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
 </p>
 
-### <img src="https://github.com/Samspei0l/Samspei0l/blob/main/OS.gif?raw=true" width="5%"> Operating Systems
+### <img src="https://github.com/Samspei0l/Samspei0l/blob/master/images/OS.gif?raw=true" width="5%"> Operating Systems
 
 <p align="center">
   &emsp;
