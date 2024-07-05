@@ -34,7 +34,7 @@
 	  &emsp; 
 	<a href="https://www.codechef.com/users/samsapi0l"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	&emsp;
-    <a href="https://judge.beecrowd.com.br/judge/en/profile/647907"><img alt="BeeCrowd" src="https://img.icons8.com/color/50/000000/bee.png"/></a>
+    <a href="https://judge.beecrowd.com/en/profile/647907"><img alt="BeeCrowd" src="https://img.icons8.com/color/50/000000/bee.png"/></a>
     	  &emsp; 
 	<a href="https://www.codingame.com/profile/de9084c5dd127a95d87fc78d7c7e99d11974316" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
 </div>
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="mailto:abdosaaed749@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Samspei0l"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Samspei01"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://wa.me/+201009814414"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
   <a href="https://www.linkedin.com/in/abdelrhman-saeed-elsayed-9b17b9238/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/profile.php?id=100081150582431"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
