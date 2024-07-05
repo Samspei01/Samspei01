@@ -100,6 +100,7 @@
   <a href="https://nodejs.org/" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white">
   </a>
+&emsp;
   <a href="https://flutter.dev/" target="_blank">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white">
   </a>
