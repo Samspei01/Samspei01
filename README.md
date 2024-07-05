@@ -132,6 +132,8 @@
     <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"></a>
   &emsp;
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
+ &emsp;
+    <a href="https://huggingface.co/" target="_blank"><img alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a>
 </p>
 
 ### <img src="https://github.com/Samspei01/Samspei01/blob/master/images/IDEs.gif" width="5%"> IDEs
