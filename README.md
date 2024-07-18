@@ -261,7 +261,7 @@
 		<a href="https://github.com/Samspei01/cubot">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=cubot&theme=tokyonight" alt="GitHub Stats" />
 </a>
- 		<a href="https://github.com/Samspei01/cubot">
+ 		<a href="https://github.com/Samspei01/Wraith-UAV-development">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Wraith-UAV-development&theme=tokyonight" alt="GitHub Stats" />
   </p>
 </div>
