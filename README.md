@@ -253,14 +253,15 @@
 		<a href="https://github.com/Samspei01/CP">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=CP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	      	</a>
+	      	
 		<a href="https://github.com/Samspei01/Astro-AI-Translator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Astro-AI-Translator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-		      	</a>
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Astro-AI-Translator&theme=tokyonight" alt="GitHub Stats" /></a>
+		      	
 		<a href="https://github.com/Samspei01/cubot">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=cubot&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=cubot&theme=tokyonight" alt="GitHub Stats" /></a>
+
+ 		<a href="https://github.com/Samspei01/cubot">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samspei01&repo=Wraith-UAV-development&theme=tokyonight" alt="GitHub Stats" /></a>
   </p>
 </div>
 </details>
