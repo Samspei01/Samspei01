@@ -18,7 +18,7 @@
 <br><br>
 - 🎓 I’m currently a `student` of [Artificial Intelligence @AAST](https://campaigns.aast.edu/artificial-intelligence/).
 - 🦾 studying Robotics with a focus on Machine Learning
-- 🏅 ECPC (Egypt Collegiate Programming Contest) Finalist.
+- 🏅 (2×ECPC)&(1×ACPC) Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :thinking: I’m currently open for a new `job opportunity`, Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/cv/CV.pdf).
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
