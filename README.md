@@ -20,7 +20,7 @@
 - 🦾 studying Robotics with a focus on Machine Learning
 - 🏅 (2×ECPC)&(1×ACPC) Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :thinking: I’m currently open for a new `job opportunity`, Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/Abdelrhman_Saeed_Resume.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/Abdelrhman_s_Resume(Ai).pdf).
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in data structures and algorithms.
