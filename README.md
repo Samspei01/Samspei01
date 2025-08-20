@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%236FDA44&center=true&vCenter=true&width=600&lines=AI+Student+at+AAST;2xECPC+Finalist;ACPC+Finalist;I+am+majoring+in+Robotics+and+Machine+Learning;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%236FDA44&center=true&vCenter=true&width=600&lines=AI+Student+at+AAST;3xECPC+Finalist;2xACPC+Finalist;I+am+majoring+in+Robotics+and+Machine+Learning;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 <br><br>
 - 🎓 I’m currently a `student` of [Artificial Intelligence @AAST](https://campaigns.aast.edu/artificial-intelligence/).
 - 🦾 studying Robotics with a focus on Machine Learning
-- 🏅 (2×ECPC)&(1×ACPC) Finalist.
+- 🏅 (3×ECPC)&(2×ACPC) Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :thinking: I’m currently open for a new `job opportunity`, Here is [MY RESUME](https://github.com/Samspei01/Samspei01/blob/master/Abdelrhman_s_Resume(Ai).pdf).
 - 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
